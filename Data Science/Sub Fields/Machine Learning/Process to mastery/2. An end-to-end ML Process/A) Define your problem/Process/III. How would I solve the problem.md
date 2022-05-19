@@ -7,3 +7,4 @@ This is **a powerful tool. It can highlight problems that actually can be solved
 ```ad-tip
 Collect all of these details as they occur to you and update the previous sections of the problem definition. Especially the assumptions and rules of thumb.
 ```
+
