@@ -1,0 +1,6 @@
+In my article “[6 Essential Steps to Building a Great Data Culture](https://towardsdatascience.com/6-essential-steps-to-building-a-great-data-culture-e529d4dcad7e),” I wrote about how the lives of data scientists can be horrible and unproductive if the company doesn’t have a great data culture. In fact, I have heard a lot of DS complaining about unproductive ad hoc data requests that should be easily handled by stakeholders in a self-sufficient fashion (for example, changing an aggregation from monthly to daily in Looker, which literally consists of two clicks). Don’t think changing that culture is someone else’s job. If you want to see changes, make them. After all, who is better positioned to build the data culture and educate stakeholders about data than data scientists themselves? Helping to build up the data culture in the company will make your life a lot easier down the road as well as your stakeholders.
+
+**How to avoid this:**
+
+-   Make it your responsibility to conduct training for the non-analytical stakeholders and develop self-serve resources.
+-   Make sure you start practicing what you are preaching, start linking queries to slides, link data sources of truth to documents, and start documenting your code and databases. You can’t build up a data culture overnight, so it definitely takes patience.

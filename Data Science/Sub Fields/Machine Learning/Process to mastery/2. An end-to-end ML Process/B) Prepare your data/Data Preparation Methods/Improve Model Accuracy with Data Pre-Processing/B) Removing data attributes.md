@@ -1,0 +1,5 @@
+Some methods perform poorly with redundant or duplicate attributes. You can get a boost in model accuracy by removing attributes from your data.
+
+-   **Projection**: Training data can be projected into lower dimensional spaces, but still characterize the inherent relationships in the data. A popular approach is Principal Component Analysis (PCA) where the principal components found by the method can be taken as a reduced set of input attributes.
+-   **Spatial Sign**: A spatial sign projection of the data will transform data onto the surface of a multidimensional sphere. The results can be used to highlight the existence of outliers that can be modified or removed from the data.
+-   **Correlated Attributes**: Some algorithms degrade in importance with the existence of highly correlated attributes. Pairwise attributes with high correlation can be identified and the most correlated attributes can be removed from the data.

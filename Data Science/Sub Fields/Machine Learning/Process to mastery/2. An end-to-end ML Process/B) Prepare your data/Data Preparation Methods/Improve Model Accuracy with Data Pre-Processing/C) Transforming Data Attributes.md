@@ -1,0 +1,7 @@
+Transformations of training data can reduce the skewness of data as well as the prominence of outliers in the data. Many models expect data to be transformed before you can apply the algorithm.
+
+-   **Centering**: <mark style="background: #FF5582A6;">Transform the data so that it has a mean of zero and a standard deviation of one. This is typically called data standardization.</mark> 
+-   **Scaling**: A <mark style="background: #FF5582A6;">standard scaling transformation is to map the data from the original scale to a scale between zero and one. This is typically called data normalization.</mark> 
+-   **Remove Skew**: Skewed data is data that has a distribution that is pushed to one side or the other (larger or smaller values) rather than being normally distributed. Some methods assume normally distributed data and can perform better if the skew is removed. Try replacing the attribute with the log, square root or inverse of the values.
+-   **Box-Cox**: A Box-Cox transform or family of transforms can be used to reliably adjust data to remove skew.
+-   **Binning**: Numeric data can be made discrete by grouping values into bins. This is typically called data discretization. This process can be performed manually, although is more reliable if performed systematically and automatically using a heuristic that makes sense in the domain.

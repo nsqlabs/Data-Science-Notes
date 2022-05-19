@@ -1,0 +1,11 @@
+Everyone has their own skills and everyone has their special talents. Gone are the days where coding used to a compulsory part of data analysis. **Now, you don’t have to put hours trying to learn code. I would say if you learn coding , it will obviously be a star on your skills. On the other hand if you are facing any difficulties with the coding part, there are nowadays a number of Exploratory Analysis tools available in the market to perform data analysis.** If you don’t code well, these tools I have mentioned below doesn’t require you to code explicitly but simple drag & drop clicks does the job. (all of these are free to download)
+
+-   [Trifacta](https://www.trifacta.com/start-wrangling/)
+-   [Rapid Miner](https://rapidminer.com/)
+-   [Qlikview](http://global.qlik.com/us/landing/go-sm/qlikview/download-qlikview)
+-   [Knime](https://www.knime.org/knime-analytics-platform)
+-   [Tableau](https://public.tableau.com/s/)
+-   [Open Refine](http://openrefine.org/download.html)
+-   [Talend](https://www.talend.com/products/data-preparation/#free-desktop)
+-   [H2O](https://www.h2o.ai/download/)
+-   [Excel/spreadsheet](http://www.openoffice.org/download/)

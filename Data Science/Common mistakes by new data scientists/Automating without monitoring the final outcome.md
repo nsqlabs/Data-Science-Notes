@@ -1,0 +1,3 @@
+The other half of using a control group is measuring how good the output of the model is, and you need to track that all the way through your processes, or you end up optimizing for the wrong goal.
+
+“Companies do things like apply a bot to your telephone service and you don’t continuously check whether the bot is leading to greater customer satisfaction, you just congratulate yourself on using less labour,” Steinert points out. If customers are closing support cases because the bot can’t give them the right answer rather than because it solved their problem, customer satisfaction will drop dramatically.

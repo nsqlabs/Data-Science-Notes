@@ -1,0 +1,5 @@
+It’s a mistake to think that all the answers you need are in the data and a developer or data scientist can find them on their own. Make sure someone who understands the business problem is involved.
+
+“While a knowledgeable and expert data scientist will be able to figure out the problem at hand eventually, it will be much easier if the business and data scientists are on the same page,” Shah explains. “The success of any data science algorithm lies with successful feature engineering. To derive better features, a subject matter expert always adds more value than a fancy algorithm.”
+
+Start projects by having a conversation between the data team and the business stakeholder to make sure everyone is clear on what the project is trying to achieve, Ortiz suggests — even before you look at the data. “Then you can do exploratory data analysis to see if you can achieve it, and if not, you may have to go back and rephrase the question in a new way or get a different data source.” But it’s the domain expert who should be helping decide what the goal is and whether the project is delivering it.

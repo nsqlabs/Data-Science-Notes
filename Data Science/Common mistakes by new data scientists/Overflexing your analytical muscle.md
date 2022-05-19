@@ -1,0 +1,8 @@
+If all you have is a hammer, everything looks like a nail. Don’t be that DS who tries to use ML on everything. When I first entered the world of data science, I was so excited about all the fancy models I learned in school and couldn’t wait to try all of them on real-world problems. But the real world is different from academic research, and the [80/20 rule](https://en.wikipedia.org/wiki/Pareto_principle) is always at play.
+
+In my previous article about “[5 Lessons McKinsey Taught Me](https://www.kdnuggets.com/2021/07/5-lessons-mckinsey-taught-better-data-scientist.html),” I wrote about how business impact and interpretability sometimes are more important than the extra several percentage points of your model’s accuracy. Sometimes maybe an assumptions-driven Excel model makes more sense than a multi-layered neural net. In those cases, don’t over-flex your analytical muscle and make your approach overkill. Instead, flex your business muscle and be the DS who also has business acumen.
+
+**How to avoid this:**
+
+-   Have a full range of analytical skills/tools in your armory, from simple Excel to advanced ML modeling skills, so you can always assess which tool is the best to use in the situation and not bring a gun to a knife fight.
+-   Understand the business needs before delving into the analysis. Sometimes stakeholders would request an ML model because it’s a popular concept, and they have unrealistic expectations about what ML models can do. It’s your job as a DS to manage the expectations and help them find better and simpler ways to achieve their goals. Remember? **Be a thought partner, not a foot soldier.**

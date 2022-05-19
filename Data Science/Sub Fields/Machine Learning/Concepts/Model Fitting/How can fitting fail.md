@@ -1,0 +1,1 @@
+**Model fitting** is <mark style="background: green;">the measure of how well a machine learning model generalizes data similar to that with which it was trained.</mark> A **good model fit** refers to a model that accurately approximates the output when it is provided with unseen inputs.

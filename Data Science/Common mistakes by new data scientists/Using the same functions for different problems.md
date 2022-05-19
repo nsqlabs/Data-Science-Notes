@@ -1,0 +1,7 @@
+Doctors don’t prescribe the same medicine for every disease, we don’t use the same key to unlock every door, and we can’t solve every problem in life using the same solution.
+
+We also can’t apply the same functions for different problems because this would only be theoretical knowledge. Some amateur data scientists may be tempted to implement the same functions, tools, and courses to every problem.
+
+Every problem is unique, so its solution should be, as well. There are so many types of data we have like text data, voice data, image data, numeric data, time-series data, etc and they all need to be handled differently. Just like we have specific libraries in machine learning, we have different NLP libraries like [NLTK](https://www.nltk.org/), [Spacy](https://spacy.io/), and more. For images and videos, we use a [Convolutional neural network](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53). For time-series analysis we have [ARIMA](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average). 
+
+Similarly, there are many functions and algorithms in the [Scikit-Learn](https://scikit-learn.org/stable/) library. Data scientists can’t use NLTK libraries for computer vision problems and vice versa.

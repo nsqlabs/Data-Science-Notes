@@ -1,0 +1,1 @@
+A self-limiting belief is something that you assume to be true that is limiting your progress. You presuppose something about yourself or about the thing you want to achieve. The problem is you hold that belief to be true and you don’t question it.

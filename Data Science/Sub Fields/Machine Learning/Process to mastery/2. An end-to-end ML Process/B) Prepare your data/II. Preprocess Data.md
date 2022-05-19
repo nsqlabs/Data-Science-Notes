@@ -1,0 +1,9 @@
+After you have selected the data, you need to consider how you are going to use the data. This preprocessing step is about getting the selected data into a form that you can work.
+
+Three common data preprocessing steps are formatting, cleaning and sampling:
+
+-   **Formatting**: <mark style="background: #FF5582A6;">The data you have selected may not be in a format that is suitable for you to work with.</mark> The data may be in a relational database and you would like it in a flat file, or the data may be in a proprietary file format and you would like it in a relational database or a text file.
+-   **Cleaning**: <mark style="background: #FF5582A6;">Cleaning data is the removal or fixing of missing data. There may be data instances that are incomplete and do not carry the data you believe you need to address the problem. These instances may need to be removed. Additionally, there may be sensitive information in some of the attributes and these attributes may need to be anonymized or removed from the data entirely.</mark> 
+-   **Sampling**: <mark style="background: #FF5582A6;">There may be far more selected data available than you need to work with. More data can result in much longer running times for algorithms and larger computational and memory requirements. You can take a smaller representative sample of the selected data that may be much faster for exploring and prototyping solutions before considering the whole dataset.</mark> 
+
+It is very likely that the machine learning tools you use on the data will influence the preprocessing you will be required to perform. You will likely revisit this step.

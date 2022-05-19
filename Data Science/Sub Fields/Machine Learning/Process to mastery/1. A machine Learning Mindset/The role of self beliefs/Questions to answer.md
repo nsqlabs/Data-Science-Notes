@@ -1,0 +1,7 @@
+- Do you have a self-limiting belief?
+- What are your goals and why do you think you are not there yet?
+- Do you have a goal to get into machine learning, to become a data scientist or a machine learning engineer but have not taken the first step?
+-   Are you waiting to acquire some perfect set of skills before getting started?
+-   Are you waiting for the perfect conditions before getting started?
+-   Have you taken a first step and abandoned the trail?
+-   Where do you want to be and what are you struggling with?

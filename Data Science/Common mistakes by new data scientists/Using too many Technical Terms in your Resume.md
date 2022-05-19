@@ -1,0 +1,7 @@
+The biggest mistake many applicants make when writing their resume is suffocating it with technical terms. If your resume currently has this problem, rectify it immediately! **<mark style="background: #FF5582A6;">Your resume should tell the story how and what you can bring to the organisation. When a recruiter looks at your resume, the recruiter wants to understand your background and what all you have accomplished in a neat and summarized manner. If half the page is filled with vague and heavy data science terms without any explanation, your resume might not clear the screening round.</mark> **
+
+## How to avoid this mistake?
+
+Do not simply list the programming languages or libraries you’ve used. Try to describe where you have used them while solving practical problems. Only list the techniques which you have used to accomplish something and remove other distractions. The simplest way to eliminate resume clutter is to use bullet points. Your resume needs to reflect what potential impact you can add to the business. Setting a resume template is an important task, make a resume master template which you can spin off to different versions for different roles you will be applying for. Having a set template will help — just change the story to relfect your interest in that particular industry.
+
+> Read this below article on Forbes for further assistance: [How to write a Data Science Resume](https://www.forbes.com/sites/quora/2017/09/13/how-to-write-a-data-science-resume-when-youre-coming-from-academia/#1bbab5b22d26)

@@ -1,0 +1,7 @@
+The hype around AI has too many people convinced that “if we throw data at a computer algorithm, it will figure out everything by itself,” Shah warns. “Although companies have lots of data, human expertise is still required to bring the data into a usable format.”
+
+Looking only at what your company has done before won’t uncover new opportunities, just ways to be more efficient at the same things you’ve already done, Steinert points out. “The more you use the past as the sole predictor of the future, the less open you are to looking for new avenues,” Steinert says. Even if you bring in third-party data to find demand for your products or services, it doesn’t guarantee you’ll be able to make those sales. “A data model can tell you a company is a good match for what you offer but it can’t tell you if that company has a need right now,” he adds.
+
+“People are starting to invest and put trust in data scientists in ways they haven’t placed trust in different fields before, and they’re throwing resources at them and expecting a silver bullet to answer all their questions There’s a lot of faith being placed in this romantic view right now of data scientists and using data to answer questions and drive decisions,” Ortiz says.
+
+Ortiz suggests data scientists should prove they can deliver by starting with small projects and quick wins to show the value to the organization. “Pluck that low-hanging fruit; don’t start by going down a technological rabbit hole and spending a month on a big project you think is going to be of tremendous value,” he says.
